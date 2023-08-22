@@ -1,0 +1,46 @@
+
+body{
+    /* background-color: cadetblue; */
+    background-image: url(pexels-roman-odintsov-5903267.jpg);
+    background-size: cover;
+}
+.main{
+    /* border: solid 1px black; */
+    border-radius: 5px;
+    height: 600px;
+    width: 350px;
+    text-align: center;
+    /* padding-left: 50px; */
+    background-color: #d0b42a70 ;
+    /* opacity: 0.6; */
+    /* margin-top: 80px;
+    margin-left: 550px; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+
+}
+h1{
+    text-align: center;
+}
+#name{
+color: #ffffff;
+font-size: 25px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+input[type="text"],input[type="email"],input[type="tel"],input[type="password"]{
+    width: 300px;
+    height: 25px;
+    border-radius: 10px;
+    outline: none;
+}
+p{
+    font-size: 25px;
+}
+#sign{
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+}
+hr{
+    width: 300px;
+}

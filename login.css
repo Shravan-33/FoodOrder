@@ -1,0 +1,57 @@
+.abc{
+    background-image: url(l4.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1500px 900px;
+    display: flex;
+    
+    
+    
+    
+}
+
+.main{
+    background-color: rgba(216, 161, 161, 0.61) ;
+    width: 300px;
+    height: 400px;
+    margin-left: 600px;
+    margin-top: 140px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    /* margin-top: 150px; */
+    color: rgb(251, 251, 251);
+}
+.login{
+    text-align: center;
+    margin-top: 60px;
+    outline: none;
+}
+.inp{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(180, 207, 207, 0.514);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+
+}
+input[type="checkbox"]{
+    height: 20px;
+    width: 20px;
+}
+:placeholder-shown{
+    text-align: center;
+}
+.button{
+    font-size: 15px;
+}
+ .button{
+    text-decoration: none;
+} 
+#rem{
+    font-size: 25px;
+}
+#forg{
+    font-size: 20px;
+}

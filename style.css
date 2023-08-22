@@ -1,0 +1,189 @@
+body{
+    border: solid 1px rgba(27, 26, 22, 0.605);
+    height: 1500px;
+}
+.header{
+border: solid 1px rgba(27, 26, 22, 0.605);
+height: 350px;
+background-image: url(zomato4.png) ;
+background-repeat: no-repeat;
+background-size: 1495px 350px;
+border-radius: 15px;
+
+#log{
+    /* border: solid 1px; */
+    height: 70px;
+    margin-top: 50px;
+
+}
+#signup{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    border: solid 2px;
+    background-color: rgba(0, 0, 0, 0.502) ;
+    text-decoration: none;
+    margin-left: 50px;
+    line-height: 70px;
+    border-radius: 10px;
+}
+#login{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    border: solid 2px;
+    background-color: rgba(0, 0, 0, 0.502) ;
+    text-decoration: none;
+    margin-left: 1080px;
+    border-radius: 10px;
+
+}
+}
+/* .nav{
+    border: solid 1px black;
+    height: 50px;
+    margin-top: 10px;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+ul li{
+    border: solid 1px black;
+    height: 50px;
+    width: 363px;
+    background-color: aquamarine;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 35px;
+    display: block;
+}
+ul li a:hover{
+    background-color: rgb(255, 255, 255);
+}
+ul li ul li{
+    display: none;
+}
+ul li:hover ul li{
+display: block;
+background-color: rgba(26, 142, 120, 0.653);
+}
+ul li ul li a:hover{
+    color: rgb(255, 115, 0);
+}
+ul li ul li a {
+    font-size: 40px;
+} */
+.box1{
+    border: solid hsl(0, 0%, 0%) 1px hidden;
+    height: 200px;
+    display: flex;
+    margin-top: 10px;
+    /* background-color: rgba(193, 169, 169, 0.502); */
+}
+#box2{
+    border: solid black 1px hidden;
+    height: 180px;
+    width: 200px;
+    margin: 10px 30px 10px 10px;
+    font-size: 20px;
+}
+img{
+    border-radius: 90px;
+    margin-left: 8%;
+    margin-top: 10px;
+
+}
+#itemname{
+    padding-left: 25%;
+    font-size: 25px;
+}
+/* ------------------------------------------- */
+.box4{
+    /* border: solid 1px rgb(0, 255, 106); */
+    height: 424px;
+}
+#box4a{
+    /* border: solid 1px rgb(0, 255, 106); */
+    height: 60px;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+}
+#box4b{
+    /* border: solid 1px; */
+height: 360px;
+display: flex;
+}
+#box4b1{
+    border: solid 1px;
+    height: 360px;
+    width: 450px;
+    margin-left: 30px;
+}
+#box4b2{
+    border: solid 1px;
+    height: 360px;
+    width: 450px;
+    margin-left: 30px;
+}
+#box4b3{
+    border: solid 1px;
+    height: 360px;
+    width: 450px;
+    margin-left: 30px;
+}
+#img1{
+    /* border: solid 1px yellowgreen; */
+    height: 250px;
+    background-image: url(c.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+}
+#imgdes1{
+    /* border: solid 1px rgb(112, 118, 100); */
+    height: 108px;
+}
+.star1{
+    color: green;
+}
+#img2{
+    /* border: solid 1px yellowgreen; */
+    height: 250px;
+    background-image: url(mut.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+}
+#imgdes2{
+    /* border: solid 1px rgb(112, 118, 100); */
+    height: 108px;
+}
+
+#img3{
+    /* border: solid 1px yellowgreen; */
+    height: 250px;
+    background-image: url(shaw.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+}
+#imgdes3{
+    /* border: solid 1px rgb(112, 118, 100); */
+    height: 108px;
+}
+#box5{
+        border: solid 1px rgb(112, 118, 100);
+        height: 213px;
+        font-size: 150px;
+        text-transform: uppercase;
+        line-height: 213px;
+        /* background-color: rgb(6, 7, 8); */
+        color: rgb(255, 255, 255);
+        background-image: url(zomato.jpg);
+        background-size: cover;
+
+}
+

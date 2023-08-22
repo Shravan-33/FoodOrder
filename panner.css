@@ -1,0 +1,109 @@
+.outerbox1{
+    border: solid #000000 1px;
+    height: 720px;
+    /* display: flex; */
+    justify-content: space-between;
+}
+#box1{
+    border: solid #000000  1px;
+    height: 300px;
+    width: 1460px;
+}
+/* #img1{
+    height: 200px;
+    width: 286px;
+    border: solid black 1px;
+} */
+/* #b1{
+    border: solid black 2px;
+    height: 200px;
+    width: 290;
+} */
+/* #b2{
+    width: 290px;
+    height: 75px;
+    border: solid black 1px;
+} */
+/* #box2{
+    border: solid #de4c4c  1px;
+    height: 300px;
+    width: 1460px;
+    display: flex;
+}
+#c1{
+    border: solid 1px;
+    height: 239px;
+    width: 1200px;
+}
+#c2{
+    border: solid 1px;
+    height: 239px;
+    width: 260px;
+}
+#box3{
+    border: solid #ff0000  1px;
+    height: 240px;
+    width: 1460px;
+} */
+
+
+
+------------------------------------------------------
+
+.offerbox{
+    border:  solid 1px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+#offer1{
+    border: solid 1px;
+    height: 399px;
+    /* width: 400px; */
+}
+#offer2{
+    border: solid 1px;
+    height: 399px;
+    width: 400px;
+}
+#inoffer1{
+    border: solid 1px red;
+    height:280px;
+    /* width: 50px; */
+}
+#inoffer2{
+    border: solid 1px red;
+    height: 119px;
+}
+#offerimg{
+    border-radius: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    position: relative ;
+
+}
+#offerpara1{
+    /* margin-right: 0px; */
+    margin-bottom: 0px;
+    margin-top: 0px;
+padding: 0px;
+position: relative ;
+bottom: 15px;
+font-size: 20px;
+right: 90px;
+}
+#offerpara2{
+    margin-right: 290px;
+    margin-bottom: 0px;
+        position: relative ;
+bottom: 25px;
+}
+#timer{
+    margin-right: 300px;
+        position: relative ;
+bottom: 35px;
+right: 0px;
+font-size: 15px;
+}
